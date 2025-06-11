@@ -21,8 +21,8 @@ Google Gemini AI를 활용한 자동화된 데이터 분석 및 시각화 웹 �
 
 1. 저장소 클론 또는 파일 다운로드
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/NiceTry3675/data-analysis-agent
+cd data-analysis-agent
 ```
 
 2. 필요한 패키지 설치
